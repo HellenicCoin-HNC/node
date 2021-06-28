@@ -24,9 +24,9 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 Download the linux daemon and tools 
 
-wget "https://github.com/HellenicCoin-HNC/revolution/raw/main/helleniccoin-daemon-linux.tar.gz" -O helleniccoin-daemon-linux.tar.gz 
+wget "https://github.com/HellenicCoin-HNC/node/raw/main/helleniccoin-daemon-linux.tar.gz" -O helleniccoin-daemon-linux.tar.gz 
 
-wget "https://github.com/HellenicCoin-HNC/revolution/raw/main/helleniccoin-qt-linux.tar.gz" -O helleniccoin-qt-linux.tar.gz 
+wget "https://github.com/HellenicCoin-HNC/node/raw/main/helleniccoin-qt-linux.tar.gz" -O helleniccoin-qt-linux.tar.gz 
 
 Extract the tar file. 
 
