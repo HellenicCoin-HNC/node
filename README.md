@@ -1,6 +1,6 @@
 Here is presented node installation guide
 
-Before node installation there should be a machine and its minimal requiriments are `Ubuntu 18.04 LTS 64bit. ( minimum 2 cpu 4GB ram)`
+Before node installation there should be a machine requiriments are `Ubuntu 18.04 LTS 64bit. ( minimum 2 cpu 4GB ram)`
 
 Run the code snippet to install node dependenci libraries
 ```
